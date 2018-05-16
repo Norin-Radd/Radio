@@ -1,0 +1,23 @@
+#EXTM3U
+
+#EXTINF:0 radio="true" group-title="Portugal", Vodafone FM
+http://195.23.102.207/vodafone
+
+#EXTINF:0 radio="true" group-title="Portugal", Rádio Quântica
+http://stream2.radioquantica.com:8000/stream
+
+#EXTINF:0 radio="true" group-title="Portugal", Rádio Ophelia
+http://radio-ophelia.pt:8001/stream.mp3
+
+#EXTINF:0 radio="true" group-title="Portugal", RUC
+http://ruc2.cidadedecoimbra.com:8000/
+
+#EXTINF:0 radio="true" group-title="Portugal", Rádio Zero
+http://stream.radiozero.pt:8000/zero128.mp3
+
+#EXTINF:0 radio="true" group-title="Portugal", Rádio Clube de Alcoutim
+http://radios.dotsi.pt:8020/;stream.nsv
+
+#EXTINF:0 radio="true" group-title="Portugal", Rádio Castrense
+http://centova.radio.com.pt:8431/
+
